@@ -26,19 +26,18 @@ A curated list of cloud security resources
 	* [Security][19]
 		* [Well-Architected Framework][20] [Security Pillar][21] ([pdf][22])
 		* [Security Reference Architecture][23] (AWS SRA)
+		* [Security Maturity Model][24]
+	* [Compliance][25]
 
-	* [Compliance][24]
-
-
-* [Kubernetes][25]
-	* [KubeCon + CludNativeCon][26]
+* [Kubernetes][26]
+	* [KubeCon + CludNativeCon][27]
 
 * Threats
-	* [Open Cloud Vulnerability and Security Issue Database][27]
+	* [Open Cloud Vulnerability and Security Issue Database][28]
 
 * Newsletters
-	* Clint Gibler’s [tl;dr sec][28]
-	* Marco Lancini’s [CloudSecList][29]
+	* Clint Gibler’s [tl;dr sec][29]
+	* Marco Lancini’s [CloudSecList][30]
 
 * Books
 
@@ -65,9 +64,10 @@ A curated list of cloud security resources
 [21]:	https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
 [22]:	https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf#welcome
 [23]:	https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html
-[24]:	https://aws.amazon.com/compliance/
-[25]:	https://kubernetes.io/
-[26]:	https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
-[27]:	https://www.cloudvulndb.org/
-[28]:	https://tldrsec.com/
-[29]:	https://cloudseclist.com/
+[24]:	https://maturitymodel.security.aws.dev/en/model/
+[25]:	https://aws.amazon.com/compliance/
+[26]:	https://kubernetes.io/
+[27]:	https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+[28]:	https://www.cloudvulndb.org/
+[29]:	https://tldrsec.com/
+[30]:	https://cloudseclist.com/
