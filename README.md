@@ -21,23 +21,25 @@ A curated list of cloud security resources
 
 * Azure
 	* [Security][18]
+	* [Cloud Security Benchmark][19]
 
 * AWS
-	* [Security][19]
-		* [Well-Architected Framework][20] [Security Pillar][21] ([pdf][22])
-		* [Security Reference Architecture][23] (AWS SRA)
-		* [Security Maturity Model][24]
-	* [Compliance][25]
+	* [Security][20]
+		* [Well-Architected Framework][21] [Security Pillar][22] ([pdf][23])
+		* [Security Reference Architecture][24] (AWS SRA)
+		* [Security Maturity Model][25]
+	* [Compliance][26]
+	* [Security Services Best Practices][27]
 
-* [Kubernetes][26]
-	* [KubeCon + CludNativeCon][27]
+* [Kubernetes][28]
+	* [KubeCon + CludNativeCon][29]
 
 * Threats
-	* [Open Cloud Vulnerability and Security Issue Database][28]
+	* [Open Cloud Vulnerability and Security Issue Database][30]
 
 * Newsletters
-	* Clint Gibler’s [tl;dr sec][29]
-	* Marco Lancini’s [CloudSecList][30]
+	* Clint Gibler’s [tl;dr sec][31]
+	* Marco Lancini’s [CloudSecList][32]
 
 * Books
 
@@ -59,15 +61,17 @@ A curated list of cloud security resources
 [16]:	https://www.enisa.europa.eu/publications/cloud-cybersecurity-market-analysis/@@download/fullReport
 [17]:	CIS%20Benchmarks
 [18]:	https://azure.microsoft.com/en-us/explore/security
-[19]:	https://docs.aws.amazon.com/security/
-[20]:	https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
-[21]:	https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
-[22]:	https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf#welcome
-[23]:	https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html
-[24]:	https://maturitymodel.security.aws.dev/en/model/
-[25]:	https://aws.amazon.com/compliance/
-[26]:	https://kubernetes.io/
-[27]:	https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
-[28]:	https://www.cloudvulndb.org/
-[29]:	https://tldrsec.com/
-[30]:	https://cloudseclist.com/
+[19]:	https://learn.microsoft.com/en-us/security/benchmark/azure/overview
+[20]:	https://docs.aws.amazon.com/security/
+[21]:	https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
+[22]:	https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
+[23]:	https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf#welcome
+[24]:	https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html
+[25]:	https://maturitymodel.security.aws.dev/en/model/
+[26]:	https://aws.amazon.com/compliance/
+[27]:	https://aws.github.io/aws-security-services-best-practices/?utm_source=cloudseclist.com&utm_medium=referral&utm_campaign=CloudSecList-issue-218
+[28]:	https://kubernetes.io/
+[29]:	https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+[30]:	https://www.cloudvulndb.org/
+[31]:	https://tldrsec.com/
+[32]:	https://cloudseclist.com/
